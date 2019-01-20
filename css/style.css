@@ -1,0 +1,29 @@
+.has-error small{color:red;font-weight:normal;margin-left:5px;}
+
+.men{
+	background-color: #006064 !important;
+}
+
+#tabla{
+	width: 90%;
+}
+
+.separar li a{
+	margin-right: 10px;
+}
+.separar {
+	float: right; 
+}
+
+.editar{
+ background: #01579b;
+}
+
+.eliminar{
+	background: #c62828;
+
+}
+
+.bus{
+	background: #424242!important;
+}

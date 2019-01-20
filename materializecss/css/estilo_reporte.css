@@ -1,0 +1,39 @@
+body{
+
+    font-family: Helvetica, sans-serif;
+}
+
+#encabezado{
+    background-color: #4CAF50;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+
+}
+
+#logo_reporte{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
+
+#usuarios {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#usuarios td, #usuarios th {
+    border: 1px solid #ddd;
+    font-size: 14px;
+    padding: 8px;
+}
+
+#usuarios tr:nth-child(even){background-color: #f2f2f2;}
+
+#usuarios th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
